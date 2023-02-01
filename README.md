@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Abuthuraya</h1>
-<h3 align="center">A full-stack developer with experience in web and mobile development, user experience, and product design.</h3>
+<h3 align="center">A full-stack developer with experience in web and mobile development, UX, and product design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moosethuraya&label=Profile%20views&color=0e75b6&style=flat" alt="moosethuraya" /> </p>
 
