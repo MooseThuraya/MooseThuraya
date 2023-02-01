@@ -8,7 +8,7 @@
 - 👀 Seeking full-time software engineering positions
 - ⚡ Fun facts:
      - ❤️ Coding
-     - ❤️ Getting a Gym Pump
+     - ❤️ Getting a gym pump
      - ❤️ Video Games
    
 <!-- Porfolio Section -->
