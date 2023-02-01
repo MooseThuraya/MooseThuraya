@@ -5,7 +5,7 @@
 
 - 🎓 I’m a CS graduate student at Seattle University
 - 🌱 I’m currently working on a personal portfolio
-- 👀 Seeking full-time Software Engineering Positions
+- 👀 Seeking full-time software engineering positions
 - ⚡ Fun facts:
      - ❤️ Coding
      - ❤️ Gym Pump
