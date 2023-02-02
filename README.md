@@ -24,8 +24,8 @@
 </a>
 <h3 align="left">GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moosethuraya&show_icons=true&locale=en" alt="moosethuraya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moosethuraya&theme=radical&show_icons=true&locale=en" alt="moosethuraya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moosethuraya&" alt="moosethuraya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moosethuraya&theme=radical&" alt="moosethuraya" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moosethuraya&show_icons=true&locale=en&layout=compact" alt="moosethuraya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moosethuraya&theme=radical&show_icons=true&locale=en&layout=compact" alt="moosethuraya" /></p>
